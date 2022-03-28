@@ -9,5 +9,4 @@ The feature importance describes which features are relevant. It can help with a
 
 In this repo, I present 5 ways (with code) to compute feature importance for the Random Forest algorithm in Python, display importances and compare strategies by visualization and implemented Automatic feature selection algorithm.
 
-Finally, I discuss Variance in Feature Importances that give a deeper understanding of the generated scores.
-
+Finally, I discuss Variance in Feature Importances that give a deeper understanding of the generated scores in the [jupyter notebook](https://github.com/zren15/Feature-Importance/blob/main/featimp.ipynb).
